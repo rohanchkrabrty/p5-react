@@ -1,5 +1,5 @@
 {
-  "name": "@p5-wrapper/react",
+  "name": "@rohanchkrabrty/p5-react",
   "description": "A wrapper component that allows you to utilise P5 sketches within React apps.",
   "version": "4.2.0",
   "type": "module",
